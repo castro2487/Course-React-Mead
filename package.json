@@ -1,0 +1,12 @@
+{
+  "name": "app-indecision",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/castro2487/Course-React-Mead.git",
+  "author": "Omar Castro",
+  "license": "MIT",
+  "dependencies": {
+    "babel-preset-env": "1.5.2",
+    "babel-preset-react": "6.24.1"
+  }
+}
