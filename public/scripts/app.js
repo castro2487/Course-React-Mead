@@ -3,9 +3,9 @@
 console.log("el app js esta corriendo");
 
 var template = React.createElement(
-  "p",
+  "h1",
   null,
-  " Esto es JSX desde app.js"
+  " App Indecision "
 );
 var appRoot = document.getElementById('app');
 
